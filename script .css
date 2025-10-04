@@ -25,6 +25,7 @@ body {
   padding: 20px;
 }
 body {
+  background-color: #1e1e1e; /* dark gray */
   background-image: url("https://i.postimg.cc/66v7s9Qf/password-generator-3.png");
   background-repeat: no-repeat;   /* prevents tiling */
   background-size: cover;        /* makes image cover the whole page */
